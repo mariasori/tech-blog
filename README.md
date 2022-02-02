@@ -2,9 +2,7 @@
 
 
 ## Description
-The purpose of this challenge was to create a tech blog where users can publish artciles, posts, and opinions.  
-
-## Screenshot
+The purpose of this challenge was to create a tech blog where users can publish artciles, posts, and opinions.  Users can also submit comments to previous posts on the blog.
 
 ## Table of Contents
 - [Description](#description)
@@ -12,7 +10,9 @@ The purpose of this challenge was to create a tech blog where users can publish 
 - [Technologies](#technologies)
 - [Contributions](#contributions)
 - [Questions](#questions)
-- [Video-Walkthrough](#video-walkthrough)
+
+## Screenshot
+![image](https://user-images.githubusercontent.com/88404610/152116893-8b57078e-ec5a-4f99-bf40-501178964729.png)
 
 ## Technologies
 - Javascript
