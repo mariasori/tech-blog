@@ -6,10 +6,14 @@ The purpose of this challenge was to create a tech blog where users can publish 
 
 ## Table of Contents
 - [Description](#description)
+- [Link](#link)
 - [Screenshot](#screenshot) 
 - [Technologies](#technologies)
 - [Contributions](#contributions)
 - [Questions](#questions)
+
+## Link
+[Click here](https://gentle-peak-82851.herokuapp.com/) to see the deployed application.
 
 ## Screenshot
 ![image](https://user-images.githubusercontent.com/88404610/152116893-8b57078e-ec5a-4f99-bf40-501178964729.png)
